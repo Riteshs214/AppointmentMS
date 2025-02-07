@@ -14,8 +14,8 @@ Secure login/signup with only Indian mobile numbers (no duplicate emails or phon
 ✅ Authentication & Validation:
 
 Login Credentials:
-Admin: admin@gmail.com | 12345678
-Patient: user@gmail.com | 12345678
+Admin: {admin@gmail.com | 12345678}
+Patient: {user@gmail.com | 12345678}
 Secure validation to prevent duplicate registrations.
 🔹 Technologies Used:
 Frontend: HTML, CSS, Bootstrap
